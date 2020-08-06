@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/zpp-springboot-common/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/zpp-springboot-elk/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/zpp-springboot-elk/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/zpp-springboot-es/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/zpp-springboot-es/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/zpp-springboot-kafka/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/zpp-springboot-kafka/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/zpp-springboot-ldap/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/zpp-springboot-mqtt/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/zpp-springboot-mqtt/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/zpp-springboot-mybatis/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/zpp-springboot-mybatis/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/zpp-springboot-oss/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/zpp-springboot-oss/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/zpp-springboot-rabbitmq/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/zpp-springboot-rabbitmq/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/zpp-springboot-redis/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/zpp-springboot-redis/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/zpp-springboot-rocketmq/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/zpp-springboot-rocketmq/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/zpp-springboot-sharding/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/zpp-springboot-sharding/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/zpp-springboot-socketio/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/zpp-springboot-socketio/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/zpp-springboot-webflux/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/zpp-springboot-webflux/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/zpp-springboot-websocket-stomp/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/zpp-springboot-websocket-stomp/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/zpp-springboot-websocket/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/zpp-springboot-websocket/src/main/resources" charset="UTF-8" />
+  </component>
+</project>

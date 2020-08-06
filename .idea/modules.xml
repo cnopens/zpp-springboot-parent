@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/zpp-springboot-common/zpp-springboot-common.iml" filepath="$PROJECT_DIR$/zpp-springboot-common/zpp-springboot-common.iml" />
+      <module fileurl="file://$PROJECT_DIR$/zpp-springboot-elk/zpp-springboot-elk.iml" filepath="$PROJECT_DIR$/zpp-springboot-elk/zpp-springboot-elk.iml" />
+      <module fileurl="file://$PROJECT_DIR$/zpp-springboot-es/zpp-springboot-es.iml" filepath="$PROJECT_DIR$/zpp-springboot-es/zpp-springboot-es.iml" />
+      <module fileurl="file://$PROJECT_DIR$/zpp-springboot-kafka/zpp-springboot-kafka.iml" filepath="$PROJECT_DIR$/zpp-springboot-kafka/zpp-springboot-kafka.iml" />
+      <module fileurl="file://$PROJECT_DIR$/zpp-springboot-ldap/zpp-springboot-ldap.iml" filepath="$PROJECT_DIR$/zpp-springboot-ldap/zpp-springboot-ldap.iml" />
+      <module fileurl="file://$PROJECT_DIR$/zpp-springboot-mqtt/zpp-springboot-mqtt.iml" filepath="$PROJECT_DIR$/zpp-springboot-mqtt/zpp-springboot-mqtt.iml" />
+      <module fileurl="file://$PROJECT_DIR$/zpp-springboot-mybatis/zpp-springboot-mybatis.iml" filepath="$PROJECT_DIR$/zpp-springboot-mybatis/zpp-springboot-mybatis.iml" />
+      <module fileurl="file://$PROJECT_DIR$/zpp-springboot-oss/zpp-springboot-oss.iml" filepath="$PROJECT_DIR$/zpp-springboot-oss/zpp-springboot-oss.iml" />
+      <module fileurl="file://$PROJECT_DIR$/zpp-springboot-parent.iml" filepath="$PROJECT_DIR$/zpp-springboot-parent.iml" />
+      <module fileurl="file://$PROJECT_DIR$/zpp-springboot-rabbitmq/zpp-springboot-rabbitmq.iml" filepath="$PROJECT_DIR$/zpp-springboot-rabbitmq/zpp-springboot-rabbitmq.iml" />
+      <module fileurl="file://$PROJECT_DIR$/zpp-springboot-redis/zpp-springboot-redis.iml" filepath="$PROJECT_DIR$/zpp-springboot-redis/zpp-springboot-redis.iml" />
+      <module fileurl="file://$PROJECT_DIR$/zpp-springboot-rocketmq/zpp-springboot-rocketmq.iml" filepath="$PROJECT_DIR$/zpp-springboot-rocketmq/zpp-springboot-rocketmq.iml" />
+      <module fileurl="file://$PROJECT_DIR$/zpp-springboot-sharding/zpp-springboot-sharding.iml" filepath="$PROJECT_DIR$/zpp-springboot-sharding/zpp-springboot-sharding.iml" />
+      <module fileurl="file://$PROJECT_DIR$/zpp-springboot-socketio/zpp-springboot-socketio.iml" filepath="$PROJECT_DIR$/zpp-springboot-socketio/zpp-springboot-socketio.iml" />
+      <module fileurl="file://$PROJECT_DIR$/zpp-springboot-webflux/zpp-springboot-webflux.iml" filepath="$PROJECT_DIR$/zpp-springboot-webflux/zpp-springboot-webflux.iml" />
+      <module fileurl="file://$PROJECT_DIR$/zpp-springboot-websocket/zpp-springboot-websocket.iml" filepath="$PROJECT_DIR$/zpp-springboot-websocket/zpp-springboot-websocket.iml" />
+      <module fileurl="file://$PROJECT_DIR$/zpp-springboot-websocket-stomp/zpp-springboot-websocket-stomp.iml" filepath="$PROJECT_DIR$/zpp-springboot-websocket-stomp/zpp-springboot-websocket-stomp.iml" />
+    </modules>
+  </component>
+</project>

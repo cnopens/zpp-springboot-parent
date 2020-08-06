@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="zpp-springboot-websocket-stomp" />
+        <module name="zpp-springboot-webflux" />
+        <module name="zpp-springboot-sharding" />
+        <module name="zpp-springboot-mqtt" />
+        <module name="zpp-springboot-rocketmq" />
+        <module name="zpp-springboot-redis" />
+        <module name="zpp-springboot-rabbitmq" />
+        <module name="zpp-springboot-ldap" />
+        <module name="zpp-springboot-socketio" />
+        <module name="zpp-springboot-common" />
+        <module name="zpp-springboot-websocket" />
+        <module name="zpp-springboot-elk" />
+        <module name="zpp-springboot-mybatis" />
+        <module name="zpp-springboot-es" />
+        <module name="zpp-springboot-oss" />
+        <module name="zpp-springboot-kafka" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="zpp-springboot-common" target="1.8" />
+      <module name="zpp-springboot-elk" target="1.8" />
+      <module name="zpp-springboot-es" target="1.8" />
+      <module name="zpp-springboot-kafka" target="1.8" />
+      <module name="zpp-springboot-ldap" target="1.8" />
+      <module name="zpp-springboot-mqtt" target="1.8" />
+      <module name="zpp-springboot-mybatis" target="1.8" />
+      <module name="zpp-springboot-oss" target="1.8" />
+      <module name="zpp-springboot-parent" target="1.8" />
+      <module name="zpp-springboot-rabbitmq" target="1.8" />
+      <module name="zpp-springboot-redis" target="1.8" />
+      <module name="zpp-springboot-rocketmq" target="1.8" />
+      <module name="zpp-springboot-sharding" target="1.8" />
+      <module name="zpp-springboot-socketio" target="1.8" />
+      <module name="zpp-springboot-webflux" target="1.8" />
+      <module name="zpp-springboot-websocket" target="1.8" />
+      <module name="zpp-springboot-websocket-stomp" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+  <component name="JavacSettings">
+    <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="zpp-springboot-common" options="-parameters" />
+      <module name="zpp-springboot-elk" options="-parameters" />
+      <module name="zpp-springboot-es" options="-parameters" />
+      <module name="zpp-springboot-kafka" options="-parameters" />
+      <module name="zpp-springboot-ldap" options="-parameters" />
+      <module name="zpp-springboot-mqtt" options="-parameters" />
+      <module name="zpp-springboot-mybatis" options="-parameters" />
+      <module name="zpp-springboot-oss" options="-parameters" />
+      <module name="zpp-springboot-rabbitmq" options="-parameters" />
+      <module name="zpp-springboot-redis" options="-parameters" />
+      <module name="zpp-springboot-rocketmq" options="-parameters" />
+      <module name="zpp-springboot-sharding" options="-parameters" />
+      <module name="zpp-springboot-socketio" options="-parameters" />
+      <module name="zpp-springboot-webflux" options="-parameters" />
+      <module name="zpp-springboot-websocket" options="-parameters" />
+      <module name="zpp-springboot-websocket-stomp" options="-parameters" />
+    </option>
+  </component>
+</project>
